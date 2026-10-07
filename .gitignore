@@ -59,3 +59,14 @@ VolumeIcon.icns
 ehthumbs.db
 Thumbs.db
 ```
+
+# Repository storage policy
+/dist/
+/build/
+*.exe
+*.msi
+*.zip
+*.7z
+*.rar
+*.dll
+*.pdb
